@@ -17,13 +17,19 @@ In my personal capacity I'm just a passionate full stack developer and technolog
 
 ---
 
+### Projects
+
 <img align="left" alt="Moen" width="72px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/26799494/200201488-08d20bf8-d157-4682-a08d-bd5a57281272.png" />
   
 <img align="left" alt="Tellascape" width="72px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/26799494/200201693-978a8e3d-08c6-4784-ae46-60ffbfd810fc.png" />
   
 <img align="left" alt="Energizer" width="72px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/26799494/200201844-fe4eb724-edf9-46ec-9c30-e06362e97e05.png" />
 
-### 🧰 Languages and Tools
+<br />
+<br />
+<br />
+
+### Languages and Tools
 
 <img align="left" alt="Android" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
 <img align="left" alt="Flutter" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
@@ -32,8 +38,8 @@ In my personal capacity I'm just a passionate full stack developer and technolog
 <img align="left" alt="Nodejs" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 
 <br />
-
----
+<br />
+<br />
 
 ![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austinn0&show_icons=true&theme=dark)
 
