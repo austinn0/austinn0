@@ -19,11 +19,11 @@ In my personal capacity I'm just a passionate full stack developer and technolog
 
 ### Projects
 
-<img align="left" alt="Moen" width="72px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/26799494/200201488-08d20bf8-d157-4682-a08d-bd5a57281272.png" />
+<a href="https://play.google.com/store/apps/details?id=com.moen.smartwater&hl=en_US&gl=US"><img align="left" alt="Moen" width="72px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/26799494/200201488-08d20bf8-d157-4682-a08d-bd5a57281272.png" /></a>
   
-<img align="left" alt="Tellascape" width="72px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/26799494/200201693-978a8e3d-08c6-4784-ae46-60ffbfd810fc.png" />
+<a href="https://play.google.com/store/apps/details?id=com.ts.Tellascape&hl=en_US&gl=US"><img align="left" alt="Tellascape" width="72px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/26799494/200201693-978a8e3d-08c6-4784-ae46-60ffbfd810fc.png" /></a>
   
-<img align="left" alt="Energizer" width="72px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/26799494/200201844-fe4eb724-edf9-46ec-9c30-e06362e97e05.png" />
+<a href="https://play.google.com/store/apps/details?id=com.energizer.ble&hl=en_US&gl=US"><img align="left" alt="Energizer" width="72px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/26799494/200201844-fe4eb724-edf9-46ec-9c30-e06362e97e05.png" /></a>
 
 <br />
 <br />
